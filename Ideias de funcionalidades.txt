@@ -1,0 +1,5 @@
+Ideiais:
+
+- Lucro por venda, ai gera relatorio de lucro mensal
+- Calculo prioridade = lucro produto + (espaço prateleira(m3) - espaco produto(m3))
+- 
